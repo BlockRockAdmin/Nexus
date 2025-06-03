@@ -1,5 +1,7 @@
 # Nexus Dashboard: Il Cuore di BlockRock (Alpha)
 
+![Coding GIF](https://github.com/BlockRockAdmin/BlockRockAdmin/blob/main/cyberpunk-2077.gif)
+
 **Nexus** è la maschera di **BlockRock**, una dashboard di automazione domestica che evolve in una blockchain P2P in Rust. Monitora NAS, meteo, luci, telecamere e allarmi con Vue 3, Vuetify, Chart.js, Axios e MQTT, plasmando un avatar digitale che riflette le tue autenticazioni continue. È l’inizio di un universo modulare chiamato **Zion**, con nodi IoT (Samsung S9), integrazione Tron (Nile Testnet), e una narrativa RPG ispirata a *Lies of P*, *Trigun*, *Berserk* e *Attack on Titan*.
 
 ## Visione
